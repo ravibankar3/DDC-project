@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "name": "ddc-chatbot-dr-rs-bankar",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ],
+  "env": {
+    "OPENAI_API_KEY": "@openai_api_key"
+  }
+}
