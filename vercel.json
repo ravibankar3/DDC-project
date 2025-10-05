@@ -1,11 +1,4 @@
 {
   "version": 2,
-  "name": "ddc-chatbot-dr-rs-bankar",
-  "builds": [
-    {
-      "src": "package.json",
-      "use": "@vercel/next"
-    }
-  ],
-  
+ 
 }
