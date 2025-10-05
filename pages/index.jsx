@@ -1,4 +1,3 @@
-\
 import React, { useRef, useState } from 'react';
 import Tesseract from 'tesseract.js';
 
