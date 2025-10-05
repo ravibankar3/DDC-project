@@ -1,0 +1,3002 @@
+{
+  "000": {
+    "label": "Computer science, information & general works"
+  },
+  "001": {
+    "label": "Computer science, information & general works \u2014 subdivision 1"
+  },
+  "002": {
+    "label": "Computer science, information & general works \u2014 subdivision 2"
+  },
+  "003": {
+    "label": "Computer science, information & general works \u2014 subdivision 3"
+  },
+  "004": {
+    "label": "Computer science, information & general works \u2014 subdivision 4"
+  },
+  "005": {
+    "label": "Computer science, information & general works \u2014 subdivision 5"
+  },
+  "006": {
+    "label": "Computer science, information & general works \u2014 subdivision 6"
+  },
+  "007": {
+    "label": "Computer science, information & general works \u2014 subdivision 7"
+  },
+  "008": {
+    "label": "Computer science, information & general works \u2014 subdivision 8"
+  },
+  "009": {
+    "label": "Computer science, information & general works \u2014 subdivision 9"
+  },
+  "010": {
+    "label": "Computer science, information & general works \u2014 subdivision 10"
+  },
+  "011": {
+    "label": "Computer science, information & general works \u2014 subdivision 11"
+  },
+  "012": {
+    "label": "Computer science, information & general works \u2014 subdivision 12"
+  },
+  "013": {
+    "label": "Computer science, information & general works \u2014 subdivision 13"
+  },
+  "014": {
+    "label": "Computer science, information & general works \u2014 subdivision 14"
+  },
+  "015": {
+    "label": "Computer science, information & general works \u2014 subdivision 15"
+  },
+  "016": {
+    "label": "Computer science, information & general works \u2014 subdivision 16"
+  },
+  "017": {
+    "label": "Computer science, information & general works \u2014 subdivision 17"
+  },
+  "018": {
+    "label": "Computer science, information & general works \u2014 subdivision 18"
+  },
+  "019": {
+    "label": "Computer science, information & general works \u2014 subdivision 19"
+  },
+  "020": {
+    "label": "Computer science, information & general works \u2014 subdivision 20"
+  },
+  "021": {
+    "label": "Computer science, information & general works \u2014 subdivision 21"
+  },
+  "022": {
+    "label": "Computer science, information & general works \u2014 subdivision 22"
+  },
+  "023": {
+    "label": "Computer science, information & general works \u2014 subdivision 23"
+  },
+  "024": {
+    "label": "Computer science, information & general works \u2014 subdivision 24"
+  },
+  "025": {
+    "label": "Computer science, information & general works \u2014 subdivision 25"
+  },
+  "026": {
+    "label": "Computer science, information & general works \u2014 subdivision 26"
+  },
+  "027": {
+    "label": "Computer science, information & general works \u2014 subdivision 27"
+  },
+  "028": {
+    "label": "Computer science, information & general works \u2014 subdivision 28"
+  },
+  "029": {
+    "label": "Computer science, information & general works \u2014 subdivision 29"
+  },
+  "030": {
+    "label": "Computer science, information & general works \u2014 subdivision 30"
+  },
+  "031": {
+    "label": "Computer science, information & general works \u2014 subdivision 31"
+  },
+  "032": {
+    "label": "Computer science, information & general works \u2014 subdivision 32"
+  },
+  "033": {
+    "label": "Computer science, information & general works \u2014 subdivision 33"
+  },
+  "034": {
+    "label": "Computer science, information & general works \u2014 subdivision 34"
+  },
+  "035": {
+    "label": "Computer science, information & general works \u2014 subdivision 35"
+  },
+  "036": {
+    "label": "Computer science, information & general works \u2014 subdivision 36"
+  },
+  "037": {
+    "label": "Computer science, information & general works \u2014 subdivision 37"
+  },
+  "038": {
+    "label": "Computer science, information & general works \u2014 subdivision 38"
+  },
+  "039": {
+    "label": "Computer science, information & general works \u2014 subdivision 39"
+  },
+  "040": {
+    "label": "Computer science, information & general works \u2014 subdivision 40"
+  },
+  "041": {
+    "label": "Computer science, information & general works \u2014 subdivision 41"
+  },
+  "042": {
+    "label": "Computer science, information & general works \u2014 subdivision 42"
+  },
+  "043": {
+    "label": "Computer science, information & general works \u2014 subdivision 43"
+  },
+  "044": {
+    "label": "Computer science, information & general works \u2014 subdivision 44"
+  },
+  "045": {
+    "label": "Computer science, information & general works \u2014 subdivision 45"
+  },
+  "046": {
+    "label": "Computer science, information & general works \u2014 subdivision 46"
+  },
+  "047": {
+    "label": "Computer science, information & general works \u2014 subdivision 47"
+  },
+  "048": {
+    "label": "Computer science, information & general works \u2014 subdivision 48"
+  },
+  "049": {
+    "label": "Computer science, information & general works \u2014 subdivision 49"
+  },
+  "050": {
+    "label": "Computer science, information & general works \u2014 subdivision 50"
+  },
+  "051": {
+    "label": "Computer science, information & general works \u2014 subdivision 51"
+  },
+  "052": {
+    "label": "Computer science, information & general works \u2014 subdivision 52"
+  },
+  "053": {
+    "label": "Computer science, information & general works \u2014 subdivision 53"
+  },
+  "054": {
+    "label": "Computer science, information & general works \u2014 subdivision 54"
+  },
+  "055": {
+    "label": "Computer science, information & general works \u2014 subdivision 55"
+  },
+  "056": {
+    "label": "Computer science, information & general works \u2014 subdivision 56"
+  },
+  "057": {
+    "label": "Computer science, information & general works \u2014 subdivision 57"
+  },
+  "058": {
+    "label": "Computer science, information & general works \u2014 subdivision 58"
+  },
+  "059": {
+    "label": "Computer science, information & general works \u2014 subdivision 59"
+  },
+  "060": {
+    "label": "Computer science, information & general works \u2014 subdivision 60"
+  },
+  "061": {
+    "label": "Computer science, information & general works \u2014 subdivision 61"
+  },
+  "062": {
+    "label": "Computer science, information & general works \u2014 subdivision 62"
+  },
+  "063": {
+    "label": "Computer science, information & general works \u2014 subdivision 63"
+  },
+  "064": {
+    "label": "Computer science, information & general works \u2014 subdivision 64"
+  },
+  "065": {
+    "label": "Computer science, information & general works \u2014 subdivision 65"
+  },
+  "066": {
+    "label": "Computer science, information & general works \u2014 subdivision 66"
+  },
+  "067": {
+    "label": "Computer science, information & general works \u2014 subdivision 67"
+  },
+  "068": {
+    "label": "Computer science, information & general works \u2014 subdivision 68"
+  },
+  "069": {
+    "label": "Computer science, information & general works \u2014 subdivision 69"
+  },
+  "070": {
+    "label": "Computer science, information & general works \u2014 subdivision 70"
+  },
+  "071": {
+    "label": "Computer science, information & general works \u2014 subdivision 71"
+  },
+  "072": {
+    "label": "Computer science, information & general works \u2014 subdivision 72"
+  },
+  "073": {
+    "label": "Computer science, information & general works \u2014 subdivision 73"
+  },
+  "074": {
+    "label": "Computer science, information & general works \u2014 subdivision 74"
+  },
+  "075": {
+    "label": "Computer science, information & general works \u2014 subdivision 75"
+  },
+  "076": {
+    "label": "Computer science, information & general works \u2014 subdivision 76"
+  },
+  "077": {
+    "label": "Computer science, information & general works \u2014 subdivision 77"
+  },
+  "078": {
+    "label": "Computer science, information & general works \u2014 subdivision 78"
+  },
+  "079": {
+    "label": "Computer science, information & general works \u2014 subdivision 79"
+  },
+  "080": {
+    "label": "Computer science, information & general works \u2014 subdivision 80"
+  },
+  "081": {
+    "label": "Computer science, information & general works \u2014 subdivision 81"
+  },
+  "082": {
+    "label": "Computer science, information & general works \u2014 subdivision 82"
+  },
+  "083": {
+    "label": "Computer science, information & general works \u2014 subdivision 83"
+  },
+  "084": {
+    "label": "Computer science, information & general works \u2014 subdivision 84"
+  },
+  "085": {
+    "label": "Computer science, information & general works \u2014 subdivision 85"
+  },
+  "086": {
+    "label": "Computer science, information & general works \u2014 subdivision 86"
+  },
+  "087": {
+    "label": "Computer science, information & general works \u2014 subdivision 87"
+  },
+  "088": {
+    "label": "Computer science, information & general works \u2014 subdivision 88"
+  },
+  "089": {
+    "label": "Computer science, information & general works \u2014 subdivision 89"
+  },
+  "090": {
+    "label": "Computer science, information & general works \u2014 subdivision 90"
+  },
+  "091": {
+    "label": "Computer science, information & general works \u2014 subdivision 91"
+  },
+  "092": {
+    "label": "Computer science, information & general works \u2014 subdivision 92"
+  },
+  "093": {
+    "label": "Computer science, information & general works \u2014 subdivision 93"
+  },
+  "094": {
+    "label": "Computer science, information & general works \u2014 subdivision 94"
+  },
+  "095": {
+    "label": "Computer science, information & general works \u2014 subdivision 95"
+  },
+  "096": {
+    "label": "Computer science, information & general works \u2014 subdivision 96"
+  },
+  "097": {
+    "label": "Computer science, information & general works \u2014 subdivision 97"
+  },
+  "098": {
+    "label": "Computer science, information & general works \u2014 subdivision 98"
+  },
+  "099": {
+    "label": "Computer science, information & general works \u2014 subdivision 99"
+  },
+  "100": {
+    "label": "Philosophy & psychology"
+  },
+  "101": {
+    "label": "Philosophy & psychology \u2014 subdivision 1"
+  },
+  "102": {
+    "label": "Philosophy & psychology \u2014 subdivision 2"
+  },
+  "103": {
+    "label": "Philosophy & psychology \u2014 subdivision 3"
+  },
+  "104": {
+    "label": "Philosophy & psychology \u2014 subdivision 4"
+  },
+  "105": {
+    "label": "Philosophy & psychology \u2014 subdivision 5"
+  },
+  "106": {
+    "label": "Philosophy & psychology \u2014 subdivision 6"
+  },
+  "107": {
+    "label": "Philosophy & psychology \u2014 subdivision 7"
+  },
+  "108": {
+    "label": "Philosophy & psychology \u2014 subdivision 8"
+  },
+  "109": {
+    "label": "Philosophy & psychology \u2014 subdivision 9"
+  },
+  "110": {
+    "label": "Philosophy & psychology \u2014 subdivision 10"
+  },
+  "111": {
+    "label": "Philosophy & psychology \u2014 subdivision 11"
+  },
+  "112": {
+    "label": "Philosophy & psychology \u2014 subdivision 12"
+  },
+  "113": {
+    "label": "Philosophy & psychology \u2014 subdivision 13"
+  },
+  "114": {
+    "label": "Philosophy & psychology \u2014 subdivision 14"
+  },
+  "115": {
+    "label": "Philosophy & psychology \u2014 subdivision 15"
+  },
+  "116": {
+    "label": "Philosophy & psychology \u2014 subdivision 16"
+  },
+  "117": {
+    "label": "Philosophy & psychology \u2014 subdivision 17"
+  },
+  "118": {
+    "label": "Philosophy & psychology \u2014 subdivision 18"
+  },
+  "119": {
+    "label": "Philosophy & psychology \u2014 subdivision 19"
+  },
+  "120": {
+    "label": "Philosophy & psychology \u2014 subdivision 20"
+  },
+  "121": {
+    "label": "Philosophy & psychology \u2014 subdivision 21"
+  },
+  "122": {
+    "label": "Philosophy & psychology \u2014 subdivision 22"
+  },
+  "123": {
+    "label": "Philosophy & psychology \u2014 subdivision 23"
+  },
+  "124": {
+    "label": "Philosophy & psychology \u2014 subdivision 24"
+  },
+  "125": {
+    "label": "Philosophy & psychology \u2014 subdivision 25"
+  },
+  "126": {
+    "label": "Philosophy & psychology \u2014 subdivision 26"
+  },
+  "127": {
+    "label": "Philosophy & psychology \u2014 subdivision 27"
+  },
+  "128": {
+    "label": "Philosophy & psychology \u2014 subdivision 28"
+  },
+  "129": {
+    "label": "Philosophy & psychology \u2014 subdivision 29"
+  },
+  "130": {
+    "label": "Philosophy & psychology \u2014 subdivision 30"
+  },
+  "131": {
+    "label": "Philosophy & psychology \u2014 subdivision 31"
+  },
+  "132": {
+    "label": "Philosophy & psychology \u2014 subdivision 32"
+  },
+  "133": {
+    "label": "Philosophy & psychology \u2014 subdivision 33"
+  },
+  "134": {
+    "label": "Philosophy & psychology \u2014 subdivision 34"
+  },
+  "135": {
+    "label": "Philosophy & psychology \u2014 subdivision 35"
+  },
+  "136": {
+    "label": "Philosophy & psychology \u2014 subdivision 36"
+  },
+  "137": {
+    "label": "Philosophy & psychology \u2014 subdivision 37"
+  },
+  "138": {
+    "label": "Philosophy & psychology \u2014 subdivision 38"
+  },
+  "139": {
+    "label": "Philosophy & psychology \u2014 subdivision 39"
+  },
+  "140": {
+    "label": "Philosophy & psychology \u2014 subdivision 40"
+  },
+  "141": {
+    "label": "Philosophy & psychology \u2014 subdivision 41"
+  },
+  "142": {
+    "label": "Philosophy & psychology \u2014 subdivision 42"
+  },
+  "143": {
+    "label": "Philosophy & psychology \u2014 subdivision 43"
+  },
+  "144": {
+    "label": "Philosophy & psychology \u2014 subdivision 44"
+  },
+  "145": {
+    "label": "Philosophy & psychology \u2014 subdivision 45"
+  },
+  "146": {
+    "label": "Philosophy & psychology \u2014 subdivision 46"
+  },
+  "147": {
+    "label": "Philosophy & psychology \u2014 subdivision 47"
+  },
+  "148": {
+    "label": "Philosophy & psychology \u2014 subdivision 48"
+  },
+  "149": {
+    "label": "Philosophy & psychology \u2014 subdivision 49"
+  },
+  "150": {
+    "label": "Philosophy & psychology \u2014 subdivision 50"
+  },
+  "151": {
+    "label": "Philosophy & psychology \u2014 subdivision 51"
+  },
+  "152": {
+    "label": "Philosophy & psychology \u2014 subdivision 52"
+  },
+  "153": {
+    "label": "Philosophy & psychology \u2014 subdivision 53"
+  },
+  "154": {
+    "label": "Philosophy & psychology \u2014 subdivision 54"
+  },
+  "155": {
+    "label": "Philosophy & psychology \u2014 subdivision 55"
+  },
+  "156": {
+    "label": "Philosophy & psychology \u2014 subdivision 56"
+  },
+  "157": {
+    "label": "Philosophy & psychology \u2014 subdivision 57"
+  },
+  "158": {
+    "label": "Philosophy & psychology \u2014 subdivision 58"
+  },
+  "159": {
+    "label": "Philosophy & psychology \u2014 subdivision 59"
+  },
+  "160": {
+    "label": "Philosophy & psychology \u2014 subdivision 60"
+  },
+  "161": {
+    "label": "Philosophy & psychology \u2014 subdivision 61"
+  },
+  "162": {
+    "label": "Philosophy & psychology \u2014 subdivision 62"
+  },
+  "163": {
+    "label": "Philosophy & psychology \u2014 subdivision 63"
+  },
+  "164": {
+    "label": "Philosophy & psychology \u2014 subdivision 64"
+  },
+  "165": {
+    "label": "Philosophy & psychology \u2014 subdivision 65"
+  },
+  "166": {
+    "label": "Philosophy & psychology \u2014 subdivision 66"
+  },
+  "167": {
+    "label": "Philosophy & psychology \u2014 subdivision 67"
+  },
+  "168": {
+    "label": "Philosophy & psychology \u2014 subdivision 68"
+  },
+  "169": {
+    "label": "Philosophy & psychology \u2014 subdivision 69"
+  },
+  "170": {
+    "label": "Philosophy & psychology \u2014 subdivision 70"
+  },
+  "171": {
+    "label": "Philosophy & psychology \u2014 subdivision 71"
+  },
+  "172": {
+    "label": "Philosophy & psychology \u2014 subdivision 72"
+  },
+  "173": {
+    "label": "Philosophy & psychology \u2014 subdivision 73"
+  },
+  "174": {
+    "label": "Philosophy & psychology \u2014 subdivision 74"
+  },
+  "175": {
+    "label": "Philosophy & psychology \u2014 subdivision 75"
+  },
+  "176": {
+    "label": "Philosophy & psychology \u2014 subdivision 76"
+  },
+  "177": {
+    "label": "Philosophy & psychology \u2014 subdivision 77"
+  },
+  "178": {
+    "label": "Philosophy & psychology \u2014 subdivision 78"
+  },
+  "179": {
+    "label": "Philosophy & psychology \u2014 subdivision 79"
+  },
+  "180": {
+    "label": "Philosophy & psychology \u2014 subdivision 80"
+  },
+  "181": {
+    "label": "Philosophy & psychology \u2014 subdivision 81"
+  },
+  "182": {
+    "label": "Philosophy & psychology \u2014 subdivision 82"
+  },
+  "183": {
+    "label": "Philosophy & psychology \u2014 subdivision 83"
+  },
+  "184": {
+    "label": "Philosophy & psychology \u2014 subdivision 84"
+  },
+  "185": {
+    "label": "Philosophy & psychology \u2014 subdivision 85"
+  },
+  "186": {
+    "label": "Philosophy & psychology \u2014 subdivision 86"
+  },
+  "187": {
+    "label": "Philosophy & psychology \u2014 subdivision 87"
+  },
+  "188": {
+    "label": "Philosophy & psychology \u2014 subdivision 88"
+  },
+  "189": {
+    "label": "Philosophy & psychology \u2014 subdivision 89"
+  },
+  "190": {
+    "label": "Philosophy & psychology \u2014 subdivision 90"
+  },
+  "191": {
+    "label": "Philosophy & psychology \u2014 subdivision 91"
+  },
+  "192": {
+    "label": "Philosophy & psychology \u2014 subdivision 92"
+  },
+  "193": {
+    "label": "Philosophy & psychology \u2014 subdivision 93"
+  },
+  "194": {
+    "label": "Philosophy & psychology \u2014 subdivision 94"
+  },
+  "195": {
+    "label": "Philosophy & psychology \u2014 subdivision 95"
+  },
+  "196": {
+    "label": "Philosophy & psychology \u2014 subdivision 96"
+  },
+  "197": {
+    "label": "Philosophy & psychology \u2014 subdivision 97"
+  },
+  "198": {
+    "label": "Philosophy & psychology \u2014 subdivision 98"
+  },
+  "199": {
+    "label": "Philosophy & psychology \u2014 subdivision 99"
+  },
+  "200": {
+    "label": "Religion"
+  },
+  "201": {
+    "label": "Religion \u2014 subdivision 1"
+  },
+  "202": {
+    "label": "Religion \u2014 subdivision 2"
+  },
+  "203": {
+    "label": "Religion \u2014 subdivision 3"
+  },
+  "204": {
+    "label": "Religion \u2014 subdivision 4"
+  },
+  "205": {
+    "label": "Religion \u2014 subdivision 5"
+  },
+  "206": {
+    "label": "Religion \u2014 subdivision 6"
+  },
+  "207": {
+    "label": "Religion \u2014 subdivision 7"
+  },
+  "208": {
+    "label": "Religion \u2014 subdivision 8"
+  },
+  "209": {
+    "label": "Religion \u2014 subdivision 9"
+  },
+  "210": {
+    "label": "Religion \u2014 subdivision 10"
+  },
+  "211": {
+    "label": "Religion \u2014 subdivision 11"
+  },
+  "212": {
+    "label": "Religion \u2014 subdivision 12"
+  },
+  "213": {
+    "label": "Religion \u2014 subdivision 13"
+  },
+  "214": {
+    "label": "Religion \u2014 subdivision 14"
+  },
+  "215": {
+    "label": "Religion \u2014 subdivision 15"
+  },
+  "216": {
+    "label": "Religion \u2014 subdivision 16"
+  },
+  "217": {
+    "label": "Religion \u2014 subdivision 17"
+  },
+  "218": {
+    "label": "Religion \u2014 subdivision 18"
+  },
+  "219": {
+    "label": "Religion \u2014 subdivision 19"
+  },
+  "220": {
+    "label": "Religion \u2014 subdivision 20"
+  },
+  "221": {
+    "label": "Religion \u2014 subdivision 21"
+  },
+  "222": {
+    "label": "Religion \u2014 subdivision 22"
+  },
+  "223": {
+    "label": "Religion \u2014 subdivision 23"
+  },
+  "224": {
+    "label": "Religion \u2014 subdivision 24"
+  },
+  "225": {
+    "label": "Religion \u2014 subdivision 25"
+  },
+  "226": {
+    "label": "Religion \u2014 subdivision 26"
+  },
+  "227": {
+    "label": "Religion \u2014 subdivision 27"
+  },
+  "228": {
+    "label": "Religion \u2014 subdivision 28"
+  },
+  "229": {
+    "label": "Religion \u2014 subdivision 29"
+  },
+  "230": {
+    "label": "Religion \u2014 subdivision 30"
+  },
+  "231": {
+    "label": "Religion \u2014 subdivision 31"
+  },
+  "232": {
+    "label": "Religion \u2014 subdivision 32"
+  },
+  "233": {
+    "label": "Religion \u2014 subdivision 33"
+  },
+  "234": {
+    "label": "Religion \u2014 subdivision 34"
+  },
+  "235": {
+    "label": "Religion \u2014 subdivision 35"
+  },
+  "236": {
+    "label": "Religion \u2014 subdivision 36"
+  },
+  "237": {
+    "label": "Religion \u2014 subdivision 37"
+  },
+  "238": {
+    "label": "Religion \u2014 subdivision 38"
+  },
+  "239": {
+    "label": "Religion \u2014 subdivision 39"
+  },
+  "240": {
+    "label": "Religion \u2014 subdivision 40"
+  },
+  "241": {
+    "label": "Religion \u2014 subdivision 41"
+  },
+  "242": {
+    "label": "Religion \u2014 subdivision 42"
+  },
+  "243": {
+    "label": "Religion \u2014 subdivision 43"
+  },
+  "244": {
+    "label": "Religion \u2014 subdivision 44"
+  },
+  "245": {
+    "label": "Religion \u2014 subdivision 45"
+  },
+  "246": {
+    "label": "Religion \u2014 subdivision 46"
+  },
+  "247": {
+    "label": "Religion \u2014 subdivision 47"
+  },
+  "248": {
+    "label": "Religion \u2014 subdivision 48"
+  },
+  "249": {
+    "label": "Religion \u2014 subdivision 49"
+  },
+  "250": {
+    "label": "Religion \u2014 subdivision 50"
+  },
+  "251": {
+    "label": "Religion \u2014 subdivision 51"
+  },
+  "252": {
+    "label": "Religion \u2014 subdivision 52"
+  },
+  "253": {
+    "label": "Religion \u2014 subdivision 53"
+  },
+  "254": {
+    "label": "Religion \u2014 subdivision 54"
+  },
+  "255": {
+    "label": "Religion \u2014 subdivision 55"
+  },
+  "256": {
+    "label": "Religion \u2014 subdivision 56"
+  },
+  "257": {
+    "label": "Religion \u2014 subdivision 57"
+  },
+  "258": {
+    "label": "Religion \u2014 subdivision 58"
+  },
+  "259": {
+    "label": "Religion \u2014 subdivision 59"
+  },
+  "260": {
+    "label": "Religion \u2014 subdivision 60"
+  },
+  "261": {
+    "label": "Religion \u2014 subdivision 61"
+  },
+  "262": {
+    "label": "Religion \u2014 subdivision 62"
+  },
+  "263": {
+    "label": "Religion \u2014 subdivision 63"
+  },
+  "264": {
+    "label": "Religion \u2014 subdivision 64"
+  },
+  "265": {
+    "label": "Religion \u2014 subdivision 65"
+  },
+  "266": {
+    "label": "Religion \u2014 subdivision 66"
+  },
+  "267": {
+    "label": "Religion \u2014 subdivision 67"
+  },
+  "268": {
+    "label": "Religion \u2014 subdivision 68"
+  },
+  "269": {
+    "label": "Religion \u2014 subdivision 69"
+  },
+  "270": {
+    "label": "Religion \u2014 subdivision 70"
+  },
+  "271": {
+    "label": "Religion \u2014 subdivision 71"
+  },
+  "272": {
+    "label": "Religion \u2014 subdivision 72"
+  },
+  "273": {
+    "label": "Religion \u2014 subdivision 73"
+  },
+  "274": {
+    "label": "Religion \u2014 subdivision 74"
+  },
+  "275": {
+    "label": "Religion \u2014 subdivision 75"
+  },
+  "276": {
+    "label": "Religion \u2014 subdivision 76"
+  },
+  "277": {
+    "label": "Religion \u2014 subdivision 77"
+  },
+  "278": {
+    "label": "Religion \u2014 subdivision 78"
+  },
+  "279": {
+    "label": "Religion \u2014 subdivision 79"
+  },
+  "280": {
+    "label": "Religion \u2014 subdivision 80"
+  },
+  "281": {
+    "label": "Religion \u2014 subdivision 81"
+  },
+  "282": {
+    "label": "Religion \u2014 subdivision 82"
+  },
+  "283": {
+    "label": "Religion \u2014 subdivision 83"
+  },
+  "284": {
+    "label": "Religion \u2014 subdivision 84"
+  },
+  "285": {
+    "label": "Religion \u2014 subdivision 85"
+  },
+  "286": {
+    "label": "Religion \u2014 subdivision 86"
+  },
+  "287": {
+    "label": "Religion \u2014 subdivision 87"
+  },
+  "288": {
+    "label": "Religion \u2014 subdivision 88"
+  },
+  "289": {
+    "label": "Religion \u2014 subdivision 89"
+  },
+  "290": {
+    "label": "Religion \u2014 subdivision 90"
+  },
+  "291": {
+    "label": "Religion \u2014 subdivision 91"
+  },
+  "292": {
+    "label": "Religion \u2014 subdivision 92"
+  },
+  "293": {
+    "label": "Religion \u2014 subdivision 93"
+  },
+  "294": {
+    "label": "Religion \u2014 subdivision 94"
+  },
+  "295": {
+    "label": "Religion \u2014 subdivision 95"
+  },
+  "296": {
+    "label": "Religion \u2014 subdivision 96"
+  },
+  "297": {
+    "label": "Religion \u2014 subdivision 97"
+  },
+  "298": {
+    "label": "Religion \u2014 subdivision 98"
+  },
+  "299": {
+    "label": "Religion \u2014 subdivision 99"
+  },
+  "300": {
+    "label": "Social sciences"
+  },
+  "301": {
+    "label": "Social sciences \u2014 subdivision 1"
+  },
+  "302": {
+    "label": "Social sciences \u2014 subdivision 2"
+  },
+  "303": {
+    "label": "Social sciences \u2014 subdivision 3"
+  },
+  "304": {
+    "label": "Social sciences \u2014 subdivision 4"
+  },
+  "305": {
+    "label": "Social sciences \u2014 subdivision 5"
+  },
+  "306": {
+    "label": "Social sciences \u2014 subdivision 6"
+  },
+  "307": {
+    "label": "Social sciences \u2014 subdivision 7"
+  },
+  "308": {
+    "label": "Social sciences \u2014 subdivision 8"
+  },
+  "309": {
+    "label": "Social sciences \u2014 subdivision 9"
+  },
+  "310": {
+    "label": "Social sciences \u2014 subdivision 10"
+  },
+  "311": {
+    "label": "Social sciences \u2014 subdivision 11"
+  },
+  "312": {
+    "label": "Social sciences \u2014 subdivision 12"
+  },
+  "313": {
+    "label": "Social sciences \u2014 subdivision 13"
+  },
+  "314": {
+    "label": "Social sciences \u2014 subdivision 14"
+  },
+  "315": {
+    "label": "Social sciences \u2014 subdivision 15"
+  },
+  "316": {
+    "label": "Social sciences \u2014 subdivision 16"
+  },
+  "317": {
+    "label": "Social sciences \u2014 subdivision 17"
+  },
+  "318": {
+    "label": "Social sciences \u2014 subdivision 18"
+  },
+  "319": {
+    "label": "Social sciences \u2014 subdivision 19"
+  },
+  "320": {
+    "label": "Social sciences \u2014 subdivision 20"
+  },
+  "321": {
+    "label": "Social sciences \u2014 subdivision 21"
+  },
+  "322": {
+    "label": "Social sciences \u2014 subdivision 22"
+  },
+  "323": {
+    "label": "Social sciences \u2014 subdivision 23"
+  },
+  "324": {
+    "label": "Social sciences \u2014 subdivision 24"
+  },
+  "325": {
+    "label": "Social sciences \u2014 subdivision 25"
+  },
+  "326": {
+    "label": "Social sciences \u2014 subdivision 26"
+  },
+  "327": {
+    "label": "Social sciences \u2014 subdivision 27"
+  },
+  "328": {
+    "label": "Social sciences \u2014 subdivision 28"
+  },
+  "329": {
+    "label": "Social sciences \u2014 subdivision 29"
+  },
+  "330": {
+    "label": "Social sciences \u2014 subdivision 30"
+  },
+  "331": {
+    "label": "Social sciences \u2014 subdivision 31"
+  },
+  "332": {
+    "label": "Social sciences \u2014 subdivision 32"
+  },
+  "333": {
+    "label": "Social sciences \u2014 subdivision 33"
+  },
+  "334": {
+    "label": "Social sciences \u2014 subdivision 34"
+  },
+  "335": {
+    "label": "Social sciences \u2014 subdivision 35"
+  },
+  "336": {
+    "label": "Social sciences \u2014 subdivision 36"
+  },
+  "337": {
+    "label": "Social sciences \u2014 subdivision 37"
+  },
+  "338": {
+    "label": "Social sciences \u2014 subdivision 38"
+  },
+  "339": {
+    "label": "Social sciences \u2014 subdivision 39"
+  },
+  "340": {
+    "label": "Social sciences \u2014 subdivision 40"
+  },
+  "341": {
+    "label": "Social sciences \u2014 subdivision 41"
+  },
+  "342": {
+    "label": "Social sciences \u2014 subdivision 42"
+  },
+  "343": {
+    "label": "Social sciences \u2014 subdivision 43"
+  },
+  "344": {
+    "label": "Social sciences \u2014 subdivision 44"
+  },
+  "345": {
+    "label": "Social sciences \u2014 subdivision 45"
+  },
+  "346": {
+    "label": "Social sciences \u2014 subdivision 46"
+  },
+  "347": {
+    "label": "Social sciences \u2014 subdivision 47"
+  },
+  "348": {
+    "label": "Social sciences \u2014 subdivision 48"
+  },
+  "349": {
+    "label": "Social sciences \u2014 subdivision 49"
+  },
+  "350": {
+    "label": "Social sciences \u2014 subdivision 50"
+  },
+  "351": {
+    "label": "Social sciences \u2014 subdivision 51"
+  },
+  "352": {
+    "label": "Social sciences \u2014 subdivision 52"
+  },
+  "353": {
+    "label": "Social sciences \u2014 subdivision 53"
+  },
+  "354": {
+    "label": "Social sciences \u2014 subdivision 54"
+  },
+  "355": {
+    "label": "Social sciences \u2014 subdivision 55"
+  },
+  "356": {
+    "label": "Social sciences \u2014 subdivision 56"
+  },
+  "357": {
+    "label": "Social sciences \u2014 subdivision 57"
+  },
+  "358": {
+    "label": "Social sciences \u2014 subdivision 58"
+  },
+  "359": {
+    "label": "Social sciences \u2014 subdivision 59"
+  },
+  "360": {
+    "label": "Social sciences \u2014 subdivision 60"
+  },
+  "361": {
+    "label": "Social sciences \u2014 subdivision 61"
+  },
+  "362": {
+    "label": "Social sciences \u2014 subdivision 62"
+  },
+  "363": {
+    "label": "Social sciences \u2014 subdivision 63"
+  },
+  "364": {
+    "label": "Social sciences \u2014 subdivision 64"
+  },
+  "365": {
+    "label": "Social sciences \u2014 subdivision 65"
+  },
+  "366": {
+    "label": "Social sciences \u2014 subdivision 66"
+  },
+  "367": {
+    "label": "Social sciences \u2014 subdivision 67"
+  },
+  "368": {
+    "label": "Social sciences \u2014 subdivision 68"
+  },
+  "369": {
+    "label": "Social sciences \u2014 subdivision 69"
+  },
+  "370": {
+    "label": "Social sciences \u2014 subdivision 70"
+  },
+  "371": {
+    "label": "Social sciences \u2014 subdivision 71"
+  },
+  "372": {
+    "label": "Social sciences \u2014 subdivision 72"
+  },
+  "373": {
+    "label": "Social sciences \u2014 subdivision 73"
+  },
+  "374": {
+    "label": "Social sciences \u2014 subdivision 74"
+  },
+  "375": {
+    "label": "Social sciences \u2014 subdivision 75"
+  },
+  "376": {
+    "label": "Social sciences \u2014 subdivision 76"
+  },
+  "377": {
+    "label": "Social sciences \u2014 subdivision 77"
+  },
+  "378": {
+    "label": "Social sciences \u2014 subdivision 78"
+  },
+  "379": {
+    "label": "Social sciences \u2014 subdivision 79"
+  },
+  "380": {
+    "label": "Social sciences \u2014 subdivision 80"
+  },
+  "381": {
+    "label": "Social sciences \u2014 subdivision 81"
+  },
+  "382": {
+    "label": "Social sciences \u2014 subdivision 82"
+  },
+  "383": {
+    "label": "Social sciences \u2014 subdivision 83"
+  },
+  "384": {
+    "label": "Social sciences \u2014 subdivision 84"
+  },
+  "385": {
+    "label": "Social sciences \u2014 subdivision 85"
+  },
+  "386": {
+    "label": "Social sciences \u2014 subdivision 86"
+  },
+  "387": {
+    "label": "Social sciences \u2014 subdivision 87"
+  },
+  "388": {
+    "label": "Social sciences \u2014 subdivision 88"
+  },
+  "389": {
+    "label": "Social sciences \u2014 subdivision 89"
+  },
+  "390": {
+    "label": "Social sciences \u2014 subdivision 90"
+  },
+  "391": {
+    "label": "Social sciences \u2014 subdivision 91"
+  },
+  "392": {
+    "label": "Social sciences \u2014 subdivision 92"
+  },
+  "393": {
+    "label": "Social sciences \u2014 subdivision 93"
+  },
+  "394": {
+    "label": "Social sciences \u2014 subdivision 94"
+  },
+  "395": {
+    "label": "Social sciences \u2014 subdivision 95"
+  },
+  "396": {
+    "label": "Social sciences \u2014 subdivision 96"
+  },
+  "397": {
+    "label": "Social sciences \u2014 subdivision 97"
+  },
+  "398": {
+    "label": "Social sciences \u2014 subdivision 98"
+  },
+  "399": {
+    "label": "Social sciences \u2014 subdivision 99"
+  },
+  "400": {
+    "label": "Language"
+  },
+  "401": {
+    "label": "Language \u2014 subdivision 1"
+  },
+  "402": {
+    "label": "Language \u2014 subdivision 2"
+  },
+  "403": {
+    "label": "Language \u2014 subdivision 3"
+  },
+  "404": {
+    "label": "Language \u2014 subdivision 4"
+  },
+  "405": {
+    "label": "Language \u2014 subdivision 5"
+  },
+  "406": {
+    "label": "Language \u2014 subdivision 6"
+  },
+  "407": {
+    "label": "Language \u2014 subdivision 7"
+  },
+  "408": {
+    "label": "Language \u2014 subdivision 8"
+  },
+  "409": {
+    "label": "Language \u2014 subdivision 9"
+  },
+  "410": {
+    "label": "Language \u2014 subdivision 10"
+  },
+  "411": {
+    "label": "Language \u2014 subdivision 11"
+  },
+  "412": {
+    "label": "Language \u2014 subdivision 12"
+  },
+  "413": {
+    "label": "Language \u2014 subdivision 13"
+  },
+  "414": {
+    "label": "Language \u2014 subdivision 14"
+  },
+  "415": {
+    "label": "Language \u2014 subdivision 15"
+  },
+  "416": {
+    "label": "Language \u2014 subdivision 16"
+  },
+  "417": {
+    "label": "Language \u2014 subdivision 17"
+  },
+  "418": {
+    "label": "Language \u2014 subdivision 18"
+  },
+  "419": {
+    "label": "Language \u2014 subdivision 19"
+  },
+  "420": {
+    "label": "Language \u2014 subdivision 20"
+  },
+  "421": {
+    "label": "Language \u2014 subdivision 21"
+  },
+  "422": {
+    "label": "Language \u2014 subdivision 22"
+  },
+  "423": {
+    "label": "Language \u2014 subdivision 23"
+  },
+  "424": {
+    "label": "Language \u2014 subdivision 24"
+  },
+  "425": {
+    "label": "Language \u2014 subdivision 25"
+  },
+  "426": {
+    "label": "Language \u2014 subdivision 26"
+  },
+  "427": {
+    "label": "Language \u2014 subdivision 27"
+  },
+  "428": {
+    "label": "Language \u2014 subdivision 28"
+  },
+  "429": {
+    "label": "Language \u2014 subdivision 29"
+  },
+  "430": {
+    "label": "Language \u2014 subdivision 30"
+  },
+  "431": {
+    "label": "Language \u2014 subdivision 31"
+  },
+  "432": {
+    "label": "Language \u2014 subdivision 32"
+  },
+  "433": {
+    "label": "Language \u2014 subdivision 33"
+  },
+  "434": {
+    "label": "Language \u2014 subdivision 34"
+  },
+  "435": {
+    "label": "Language \u2014 subdivision 35"
+  },
+  "436": {
+    "label": "Language \u2014 subdivision 36"
+  },
+  "437": {
+    "label": "Language \u2014 subdivision 37"
+  },
+  "438": {
+    "label": "Language \u2014 subdivision 38"
+  },
+  "439": {
+    "label": "Language \u2014 subdivision 39"
+  },
+  "440": {
+    "label": "Language \u2014 subdivision 40"
+  },
+  "441": {
+    "label": "Language \u2014 subdivision 41"
+  },
+  "442": {
+    "label": "Language \u2014 subdivision 42"
+  },
+  "443": {
+    "label": "Language \u2014 subdivision 43"
+  },
+  "444": {
+    "label": "Language \u2014 subdivision 44"
+  },
+  "445": {
+    "label": "Language \u2014 subdivision 45"
+  },
+  "446": {
+    "label": "Language \u2014 subdivision 46"
+  },
+  "447": {
+    "label": "Language \u2014 subdivision 47"
+  },
+  "448": {
+    "label": "Language \u2014 subdivision 48"
+  },
+  "449": {
+    "label": "Language \u2014 subdivision 49"
+  },
+  "450": {
+    "label": "Language \u2014 subdivision 50"
+  },
+  "451": {
+    "label": "Language \u2014 subdivision 51"
+  },
+  "452": {
+    "label": "Language \u2014 subdivision 52"
+  },
+  "453": {
+    "label": "Language \u2014 subdivision 53"
+  },
+  "454": {
+    "label": "Language \u2014 subdivision 54"
+  },
+  "455": {
+    "label": "Language \u2014 subdivision 55"
+  },
+  "456": {
+    "label": "Language \u2014 subdivision 56"
+  },
+  "457": {
+    "label": "Language \u2014 subdivision 57"
+  },
+  "458": {
+    "label": "Language \u2014 subdivision 58"
+  },
+  "459": {
+    "label": "Language \u2014 subdivision 59"
+  },
+  "460": {
+    "label": "Language \u2014 subdivision 60"
+  },
+  "461": {
+    "label": "Language \u2014 subdivision 61"
+  },
+  "462": {
+    "label": "Language \u2014 subdivision 62"
+  },
+  "463": {
+    "label": "Language \u2014 subdivision 63"
+  },
+  "464": {
+    "label": "Language \u2014 subdivision 64"
+  },
+  "465": {
+    "label": "Language \u2014 subdivision 65"
+  },
+  "466": {
+    "label": "Language \u2014 subdivision 66"
+  },
+  "467": {
+    "label": "Language \u2014 subdivision 67"
+  },
+  "468": {
+    "label": "Language \u2014 subdivision 68"
+  },
+  "469": {
+    "label": "Language \u2014 subdivision 69"
+  },
+  "470": {
+    "label": "Language \u2014 subdivision 70"
+  },
+  "471": {
+    "label": "Language \u2014 subdivision 71"
+  },
+  "472": {
+    "label": "Language \u2014 subdivision 72"
+  },
+  "473": {
+    "label": "Language \u2014 subdivision 73"
+  },
+  "474": {
+    "label": "Language \u2014 subdivision 74"
+  },
+  "475": {
+    "label": "Language \u2014 subdivision 75"
+  },
+  "476": {
+    "label": "Language \u2014 subdivision 76"
+  },
+  "477": {
+    "label": "Language \u2014 subdivision 77"
+  },
+  "478": {
+    "label": "Language \u2014 subdivision 78"
+  },
+  "479": {
+    "label": "Language \u2014 subdivision 79"
+  },
+  "480": {
+    "label": "Language \u2014 subdivision 80"
+  },
+  "481": {
+    "label": "Language \u2014 subdivision 81"
+  },
+  "482": {
+    "label": "Language \u2014 subdivision 82"
+  },
+  "483": {
+    "label": "Language \u2014 subdivision 83"
+  },
+  "484": {
+    "label": "Language \u2014 subdivision 84"
+  },
+  "485": {
+    "label": "Language \u2014 subdivision 85"
+  },
+  "486": {
+    "label": "Language \u2014 subdivision 86"
+  },
+  "487": {
+    "label": "Language \u2014 subdivision 87"
+  },
+  "488": {
+    "label": "Language \u2014 subdivision 88"
+  },
+  "489": {
+    "label": "Language \u2014 subdivision 89"
+  },
+  "490": {
+    "label": "Language \u2014 subdivision 90"
+  },
+  "491": {
+    "label": "Language \u2014 subdivision 91"
+  },
+  "492": {
+    "label": "Language \u2014 subdivision 92"
+  },
+  "493": {
+    "label": "Language \u2014 subdivision 93"
+  },
+  "494": {
+    "label": "Language \u2014 subdivision 94"
+  },
+  "495": {
+    "label": "Language \u2014 subdivision 95"
+  },
+  "496": {
+    "label": "Language \u2014 subdivision 96"
+  },
+  "497": {
+    "label": "Language \u2014 subdivision 97"
+  },
+  "498": {
+    "label": "Language \u2014 subdivision 98"
+  },
+  "499": {
+    "label": "Language \u2014 subdivision 99"
+  },
+  "500": {
+    "label": "Science"
+  },
+  "501": {
+    "label": "Science \u2014 subdivision 1"
+  },
+  "502": {
+    "label": "Science \u2014 subdivision 2"
+  },
+  "503": {
+    "label": "Science \u2014 subdivision 3"
+  },
+  "504": {
+    "label": "Science \u2014 subdivision 4"
+  },
+  "505": {
+    "label": "Science \u2014 subdivision 5"
+  },
+  "506": {
+    "label": "Science \u2014 subdivision 6"
+  },
+  "507": {
+    "label": "Science \u2014 subdivision 7"
+  },
+  "508": {
+    "label": "Science \u2014 subdivision 8"
+  },
+  "509": {
+    "label": "Science \u2014 subdivision 9"
+  },
+  "510": {
+    "label": "Science \u2014 subdivision 10"
+  },
+  "511": {
+    "label": "Science \u2014 subdivision 11"
+  },
+  "512": {
+    "label": "Science \u2014 subdivision 12"
+  },
+  "513": {
+    "label": "Science \u2014 subdivision 13"
+  },
+  "514": {
+    "label": "Science \u2014 subdivision 14"
+  },
+  "515": {
+    "label": "Science \u2014 subdivision 15"
+  },
+  "516": {
+    "label": "Science \u2014 subdivision 16"
+  },
+  "517": {
+    "label": "Science \u2014 subdivision 17"
+  },
+  "518": {
+    "label": "Science \u2014 subdivision 18"
+  },
+  "519": {
+    "label": "Science \u2014 subdivision 19"
+  },
+  "520": {
+    "label": "Science \u2014 subdivision 20"
+  },
+  "521": {
+    "label": "Science \u2014 subdivision 21"
+  },
+  "522": {
+    "label": "Science \u2014 subdivision 22"
+  },
+  "523": {
+    "label": "Science \u2014 subdivision 23"
+  },
+  "524": {
+    "label": "Science \u2014 subdivision 24"
+  },
+  "525": {
+    "label": "Science \u2014 subdivision 25"
+  },
+  "526": {
+    "label": "Science \u2014 subdivision 26"
+  },
+  "527": {
+    "label": "Science \u2014 subdivision 27"
+  },
+  "528": {
+    "label": "Science \u2014 subdivision 28"
+  },
+  "529": {
+    "label": "Science \u2014 subdivision 29"
+  },
+  "530": {
+    "label": "Science \u2014 subdivision 30"
+  },
+  "531": {
+    "label": "Science \u2014 subdivision 31"
+  },
+  "532": {
+    "label": "Science \u2014 subdivision 32"
+  },
+  "533": {
+    "label": "Science \u2014 subdivision 33"
+  },
+  "534": {
+    "label": "Science \u2014 subdivision 34"
+  },
+  "535": {
+    "label": "Science \u2014 subdivision 35"
+  },
+  "536": {
+    "label": "Science \u2014 subdivision 36"
+  },
+  "537": {
+    "label": "Science \u2014 subdivision 37"
+  },
+  "538": {
+    "label": "Science \u2014 subdivision 38"
+  },
+  "539": {
+    "label": "Science \u2014 subdivision 39"
+  },
+  "540": {
+    "label": "Science \u2014 subdivision 40"
+  },
+  "541": {
+    "label": "Science \u2014 subdivision 41"
+  },
+  "542": {
+    "label": "Science \u2014 subdivision 42"
+  },
+  "543": {
+    "label": "Science \u2014 subdivision 43"
+  },
+  "544": {
+    "label": "Science \u2014 subdivision 44"
+  },
+  "545": {
+    "label": "Science \u2014 subdivision 45"
+  },
+  "546": {
+    "label": "Science \u2014 subdivision 46"
+  },
+  "547": {
+    "label": "Science \u2014 subdivision 47"
+  },
+  "548": {
+    "label": "Science \u2014 subdivision 48"
+  },
+  "549": {
+    "label": "Science \u2014 subdivision 49"
+  },
+  "550": {
+    "label": "Science \u2014 subdivision 50"
+  },
+  "551": {
+    "label": "Science \u2014 subdivision 51"
+  },
+  "552": {
+    "label": "Science \u2014 subdivision 52"
+  },
+  "553": {
+    "label": "Science \u2014 subdivision 53"
+  },
+  "554": {
+    "label": "Science \u2014 subdivision 54"
+  },
+  "555": {
+    "label": "Science \u2014 subdivision 55"
+  },
+  "556": {
+    "label": "Science \u2014 subdivision 56"
+  },
+  "557": {
+    "label": "Science \u2014 subdivision 57"
+  },
+  "558": {
+    "label": "Science \u2014 subdivision 58"
+  },
+  "559": {
+    "label": "Science \u2014 subdivision 59"
+  },
+  "560": {
+    "label": "Science \u2014 subdivision 60"
+  },
+  "561": {
+    "label": "Science \u2014 subdivision 61"
+  },
+  "562": {
+    "label": "Science \u2014 subdivision 62"
+  },
+  "563": {
+    "label": "Science \u2014 subdivision 63"
+  },
+  "564": {
+    "label": "Science \u2014 subdivision 64"
+  },
+  "565": {
+    "label": "Science \u2014 subdivision 65"
+  },
+  "566": {
+    "label": "Science \u2014 subdivision 66"
+  },
+  "567": {
+    "label": "Science \u2014 subdivision 67"
+  },
+  "568": {
+    "label": "Science \u2014 subdivision 68"
+  },
+  "569": {
+    "label": "Science \u2014 subdivision 69"
+  },
+  "570": {
+    "label": "Science \u2014 subdivision 70"
+  },
+  "571": {
+    "label": "Science \u2014 subdivision 71"
+  },
+  "572": {
+    "label": "Science \u2014 subdivision 72"
+  },
+  "573": {
+    "label": "Science \u2014 subdivision 73"
+  },
+  "574": {
+    "label": "Science \u2014 subdivision 74"
+  },
+  "575": {
+    "label": "Science \u2014 subdivision 75"
+  },
+  "576": {
+    "label": "Science \u2014 subdivision 76"
+  },
+  "577": {
+    "label": "Science \u2014 subdivision 77"
+  },
+  "578": {
+    "label": "Science \u2014 subdivision 78"
+  },
+  "579": {
+    "label": "Science \u2014 subdivision 79"
+  },
+  "580": {
+    "label": "Science \u2014 subdivision 80"
+  },
+  "581": {
+    "label": "Science \u2014 subdivision 81"
+  },
+  "582": {
+    "label": "Science \u2014 subdivision 82"
+  },
+  "583": {
+    "label": "Science \u2014 subdivision 83"
+  },
+  "584": {
+    "label": "Science \u2014 subdivision 84"
+  },
+  "585": {
+    "label": "Science \u2014 subdivision 85"
+  },
+  "586": {
+    "label": "Science \u2014 subdivision 86"
+  },
+  "587": {
+    "label": "Science \u2014 subdivision 87"
+  },
+  "588": {
+    "label": "Science \u2014 subdivision 88"
+  },
+  "589": {
+    "label": "Science \u2014 subdivision 89"
+  },
+  "590": {
+    "label": "Science \u2014 subdivision 90"
+  },
+  "591": {
+    "label": "Science \u2014 subdivision 91"
+  },
+  "592": {
+    "label": "Science \u2014 subdivision 92"
+  },
+  "593": {
+    "label": "Science \u2014 subdivision 93"
+  },
+  "594": {
+    "label": "Science \u2014 subdivision 94"
+  },
+  "595": {
+    "label": "Science \u2014 subdivision 95"
+  },
+  "596": {
+    "label": "Science \u2014 subdivision 96"
+  },
+  "597": {
+    "label": "Science \u2014 subdivision 97"
+  },
+  "598": {
+    "label": "Science \u2014 subdivision 98"
+  },
+  "599": {
+    "label": "Science \u2014 subdivision 99"
+  },
+  "600": {
+    "label": "Technology (Applied sciences)"
+  },
+  "601": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 1"
+  },
+  "602": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 2"
+  },
+  "603": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 3"
+  },
+  "604": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 4"
+  },
+  "605": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 5"
+  },
+  "606": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 6"
+  },
+  "607": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 7"
+  },
+  "608": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 8"
+  },
+  "609": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 9"
+  },
+  "610": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 10"
+  },
+  "611": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 11"
+  },
+  "612": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 12"
+  },
+  "613": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 13"
+  },
+  "614": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 14"
+  },
+  "615": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 15"
+  },
+  "616": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 16"
+  },
+  "617": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 17"
+  },
+  "618": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 18"
+  },
+  "619": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 19"
+  },
+  "620": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 20"
+  },
+  "621": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 21"
+  },
+  "622": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 22"
+  },
+  "623": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 23"
+  },
+  "624": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 24"
+  },
+  "625": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 25"
+  },
+  "626": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 26"
+  },
+  "627": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 27"
+  },
+  "628": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 28"
+  },
+  "629": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 29"
+  },
+  "630": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 30"
+  },
+  "631": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 31"
+  },
+  "632": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 32"
+  },
+  "633": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 33"
+  },
+  "634": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 34"
+  },
+  "635": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 35"
+  },
+  "636": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 36"
+  },
+  "637": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 37"
+  },
+  "638": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 38"
+  },
+  "639": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 39"
+  },
+  "640": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 40"
+  },
+  "641": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 41"
+  },
+  "642": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 42"
+  },
+  "643": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 43"
+  },
+  "644": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 44"
+  },
+  "645": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 45"
+  },
+  "646": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 46"
+  },
+  "647": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 47"
+  },
+  "648": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 48"
+  },
+  "649": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 49"
+  },
+  "650": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 50"
+  },
+  "651": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 51"
+  },
+  "652": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 52"
+  },
+  "653": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 53"
+  },
+  "654": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 54"
+  },
+  "655": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 55"
+  },
+  "656": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 56"
+  },
+  "657": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 57"
+  },
+  "658": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 58"
+  },
+  "659": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 59"
+  },
+  "660": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 60"
+  },
+  "661": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 61"
+  },
+  "662": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 62"
+  },
+  "663": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 63"
+  },
+  "664": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 64"
+  },
+  "665": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 65"
+  },
+  "666": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 66"
+  },
+  "667": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 67"
+  },
+  "668": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 68"
+  },
+  "669": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 69"
+  },
+  "670": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 70"
+  },
+  "671": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 71"
+  },
+  "672": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 72"
+  },
+  "673": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 73"
+  },
+  "674": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 74"
+  },
+  "675": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 75"
+  },
+  "676": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 76"
+  },
+  "677": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 77"
+  },
+  "678": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 78"
+  },
+  "679": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 79"
+  },
+  "680": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 80"
+  },
+  "681": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 81"
+  },
+  "682": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 82"
+  },
+  "683": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 83"
+  },
+  "684": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 84"
+  },
+  "685": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 85"
+  },
+  "686": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 86"
+  },
+  "687": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 87"
+  },
+  "688": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 88"
+  },
+  "689": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 89"
+  },
+  "690": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 90"
+  },
+  "691": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 91"
+  },
+  "692": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 92"
+  },
+  "693": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 93"
+  },
+  "694": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 94"
+  },
+  "695": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 95"
+  },
+  "696": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 96"
+  },
+  "697": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 97"
+  },
+  "698": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 98"
+  },
+  "699": {
+    "label": "Technology (Applied sciences) \u2014 subdivision 99"
+  },
+  "700": {
+    "label": "Arts & recreation"
+  },
+  "701": {
+    "label": "Arts & recreation \u2014 subdivision 1"
+  },
+  "702": {
+    "label": "Arts & recreation \u2014 subdivision 2"
+  },
+  "703": {
+    "label": "Arts & recreation \u2014 subdivision 3"
+  },
+  "704": {
+    "label": "Arts & recreation \u2014 subdivision 4"
+  },
+  "705": {
+    "label": "Arts & recreation \u2014 subdivision 5"
+  },
+  "706": {
+    "label": "Arts & recreation \u2014 subdivision 6"
+  },
+  "707": {
+    "label": "Arts & recreation \u2014 subdivision 7"
+  },
+  "708": {
+    "label": "Arts & recreation \u2014 subdivision 8"
+  },
+  "709": {
+    "label": "Arts & recreation \u2014 subdivision 9"
+  },
+  "710": {
+    "label": "Arts & recreation \u2014 subdivision 10"
+  },
+  "711": {
+    "label": "Arts & recreation \u2014 subdivision 11"
+  },
+  "712": {
+    "label": "Arts & recreation \u2014 subdivision 12"
+  },
+  "713": {
+    "label": "Arts & recreation \u2014 subdivision 13"
+  },
+  "714": {
+    "label": "Arts & recreation \u2014 subdivision 14"
+  },
+  "715": {
+    "label": "Arts & recreation \u2014 subdivision 15"
+  },
+  "716": {
+    "label": "Arts & recreation \u2014 subdivision 16"
+  },
+  "717": {
+    "label": "Arts & recreation \u2014 subdivision 17"
+  },
+  "718": {
+    "label": "Arts & recreation \u2014 subdivision 18"
+  },
+  "719": {
+    "label": "Arts & recreation \u2014 subdivision 19"
+  },
+  "720": {
+    "label": "Arts & recreation \u2014 subdivision 20"
+  },
+  "721": {
+    "label": "Arts & recreation \u2014 subdivision 21"
+  },
+  "722": {
+    "label": "Arts & recreation \u2014 subdivision 22"
+  },
+  "723": {
+    "label": "Arts & recreation \u2014 subdivision 23"
+  },
+  "724": {
+    "label": "Arts & recreation \u2014 subdivision 24"
+  },
+  "725": {
+    "label": "Arts & recreation \u2014 subdivision 25"
+  },
+  "726": {
+    "label": "Arts & recreation \u2014 subdivision 26"
+  },
+  "727": {
+    "label": "Arts & recreation \u2014 subdivision 27"
+  },
+  "728": {
+    "label": "Arts & recreation \u2014 subdivision 28"
+  },
+  "729": {
+    "label": "Arts & recreation \u2014 subdivision 29"
+  },
+  "730": {
+    "label": "Arts & recreation \u2014 subdivision 30"
+  },
+  "731": {
+    "label": "Arts & recreation \u2014 subdivision 31"
+  },
+  "732": {
+    "label": "Arts & recreation \u2014 subdivision 32"
+  },
+  "733": {
+    "label": "Arts & recreation \u2014 subdivision 33"
+  },
+  "734": {
+    "label": "Arts & recreation \u2014 subdivision 34"
+  },
+  "735": {
+    "label": "Arts & recreation \u2014 subdivision 35"
+  },
+  "736": {
+    "label": "Arts & recreation \u2014 subdivision 36"
+  },
+  "737": {
+    "label": "Arts & recreation \u2014 subdivision 37"
+  },
+  "738": {
+    "label": "Arts & recreation \u2014 subdivision 38"
+  },
+  "739": {
+    "label": "Arts & recreation \u2014 subdivision 39"
+  },
+  "740": {
+    "label": "Arts & recreation \u2014 subdivision 40"
+  },
+  "741": {
+    "label": "Arts & recreation \u2014 subdivision 41"
+  },
+  "742": {
+    "label": "Arts & recreation \u2014 subdivision 42"
+  },
+  "743": {
+    "label": "Arts & recreation \u2014 subdivision 43"
+  },
+  "744": {
+    "label": "Arts & recreation \u2014 subdivision 44"
+  },
+  "745": {
+    "label": "Arts & recreation \u2014 subdivision 45"
+  },
+  "746": {
+    "label": "Arts & recreation \u2014 subdivision 46"
+  },
+  "747": {
+    "label": "Arts & recreation \u2014 subdivision 47"
+  },
+  "748": {
+    "label": "Arts & recreation \u2014 subdivision 48"
+  },
+  "749": {
+    "label": "Arts & recreation \u2014 subdivision 49"
+  },
+  "750": {
+    "label": "Arts & recreation \u2014 subdivision 50"
+  },
+  "751": {
+    "label": "Arts & recreation \u2014 subdivision 51"
+  },
+  "752": {
+    "label": "Arts & recreation \u2014 subdivision 52"
+  },
+  "753": {
+    "label": "Arts & recreation \u2014 subdivision 53"
+  },
+  "754": {
+    "label": "Arts & recreation \u2014 subdivision 54"
+  },
+  "755": {
+    "label": "Arts & recreation \u2014 subdivision 55"
+  },
+  "756": {
+    "label": "Arts & recreation \u2014 subdivision 56"
+  },
+  "757": {
+    "label": "Arts & recreation \u2014 subdivision 57"
+  },
+  "758": {
+    "label": "Arts & recreation \u2014 subdivision 58"
+  },
+  "759": {
+    "label": "Arts & recreation \u2014 subdivision 59"
+  },
+  "760": {
+    "label": "Arts & recreation \u2014 subdivision 60"
+  },
+  "761": {
+    "label": "Arts & recreation \u2014 subdivision 61"
+  },
+  "762": {
+    "label": "Arts & recreation \u2014 subdivision 62"
+  },
+  "763": {
+    "label": "Arts & recreation \u2014 subdivision 63"
+  },
+  "764": {
+    "label": "Arts & recreation \u2014 subdivision 64"
+  },
+  "765": {
+    "label": "Arts & recreation \u2014 subdivision 65"
+  },
+  "766": {
+    "label": "Arts & recreation \u2014 subdivision 66"
+  },
+  "767": {
+    "label": "Arts & recreation \u2014 subdivision 67"
+  },
+  "768": {
+    "label": "Arts & recreation \u2014 subdivision 68"
+  },
+  "769": {
+    "label": "Arts & recreation \u2014 subdivision 69"
+  },
+  "770": {
+    "label": "Arts & recreation \u2014 subdivision 70"
+  },
+  "771": {
+    "label": "Arts & recreation \u2014 subdivision 71"
+  },
+  "772": {
+    "label": "Arts & recreation \u2014 subdivision 72"
+  },
+  "773": {
+    "label": "Arts & recreation \u2014 subdivision 73"
+  },
+  "774": {
+    "label": "Arts & recreation \u2014 subdivision 74"
+  },
+  "775": {
+    "label": "Arts & recreation \u2014 subdivision 75"
+  },
+  "776": {
+    "label": "Arts & recreation \u2014 subdivision 76"
+  },
+  "777": {
+    "label": "Arts & recreation \u2014 subdivision 77"
+  },
+  "778": {
+    "label": "Arts & recreation \u2014 subdivision 78"
+  },
+  "779": {
+    "label": "Arts & recreation \u2014 subdivision 79"
+  },
+  "780": {
+    "label": "Arts & recreation \u2014 subdivision 80"
+  },
+  "781": {
+    "label": "Arts & recreation \u2014 subdivision 81"
+  },
+  "782": {
+    "label": "Arts & recreation \u2014 subdivision 82"
+  },
+  "783": {
+    "label": "Arts & recreation \u2014 subdivision 83"
+  },
+  "784": {
+    "label": "Arts & recreation \u2014 subdivision 84"
+  },
+  "785": {
+    "label": "Arts & recreation \u2014 subdivision 85"
+  },
+  "786": {
+    "label": "Arts & recreation \u2014 subdivision 86"
+  },
+  "787": {
+    "label": "Arts & recreation \u2014 subdivision 87"
+  },
+  "788": {
+    "label": "Arts & recreation \u2014 subdivision 88"
+  },
+  "789": {
+    "label": "Arts & recreation \u2014 subdivision 89"
+  },
+  "790": {
+    "label": "Arts & recreation \u2014 subdivision 90"
+  },
+  "791": {
+    "label": "Arts & recreation \u2014 subdivision 91"
+  },
+  "792": {
+    "label": "Arts & recreation \u2014 subdivision 92"
+  },
+  "793": {
+    "label": "Arts & recreation \u2014 subdivision 93"
+  },
+  "794": {
+    "label": "Arts & recreation \u2014 subdivision 94"
+  },
+  "795": {
+    "label": "Arts & recreation \u2014 subdivision 95"
+  },
+  "796": {
+    "label": "Arts & recreation \u2014 subdivision 96"
+  },
+  "797": {
+    "label": "Arts & recreation \u2014 subdivision 97"
+  },
+  "798": {
+    "label": "Arts & recreation \u2014 subdivision 98"
+  },
+  "799": {
+    "label": "Arts & recreation \u2014 subdivision 99"
+  },
+  "800": {
+    "label": "Literature"
+  },
+  "801": {
+    "label": "Literature \u2014 subdivision 1"
+  },
+  "802": {
+    "label": "Literature \u2014 subdivision 2"
+  },
+  "803": {
+    "label": "Literature \u2014 subdivision 3"
+  },
+  "804": {
+    "label": "Literature \u2014 subdivision 4"
+  },
+  "805": {
+    "label": "Literature \u2014 subdivision 5"
+  },
+  "806": {
+    "label": "Literature \u2014 subdivision 6"
+  },
+  "807": {
+    "label": "Literature \u2014 subdivision 7"
+  },
+  "808": {
+    "label": "Literature \u2014 subdivision 8"
+  },
+  "809": {
+    "label": "Literature \u2014 subdivision 9"
+  },
+  "810": {
+    "label": "Literature \u2014 subdivision 10"
+  },
+  "811": {
+    "label": "Literature \u2014 subdivision 11"
+  },
+  "812": {
+    "label": "Literature \u2014 subdivision 12"
+  },
+  "813": {
+    "label": "Literature \u2014 subdivision 13"
+  },
+  "814": {
+    "label": "Literature \u2014 subdivision 14"
+  },
+  "815": {
+    "label": "Literature \u2014 subdivision 15"
+  },
+  "816": {
+    "label": "Literature \u2014 subdivision 16"
+  },
+  "817": {
+    "label": "Literature \u2014 subdivision 17"
+  },
+  "818": {
+    "label": "Literature \u2014 subdivision 18"
+  },
+  "819": {
+    "label": "Literature \u2014 subdivision 19"
+  },
+  "820": {
+    "label": "Literature \u2014 subdivision 20"
+  },
+  "821": {
+    "label": "Literature \u2014 subdivision 21"
+  },
+  "822": {
+    "label": "Literature \u2014 subdivision 22"
+  },
+  "823": {
+    "label": "Literature \u2014 subdivision 23"
+  },
+  "824": {
+    "label": "Literature \u2014 subdivision 24"
+  },
+  "825": {
+    "label": "Literature \u2014 subdivision 25"
+  },
+  "826": {
+    "label": "Literature \u2014 subdivision 26"
+  },
+  "827": {
+    "label": "Literature \u2014 subdivision 27"
+  },
+  "828": {
+    "label": "Literature \u2014 subdivision 28"
+  },
+  "829": {
+    "label": "Literature \u2014 subdivision 29"
+  },
+  "830": {
+    "label": "Literature \u2014 subdivision 30"
+  },
+  "831": {
+    "label": "Literature \u2014 subdivision 31"
+  },
+  "832": {
+    "label": "Literature \u2014 subdivision 32"
+  },
+  "833": {
+    "label": "Literature \u2014 subdivision 33"
+  },
+  "834": {
+    "label": "Literature \u2014 subdivision 34"
+  },
+  "835": {
+    "label": "Literature \u2014 subdivision 35"
+  },
+  "836": {
+    "label": "Literature \u2014 subdivision 36"
+  },
+  "837": {
+    "label": "Literature \u2014 subdivision 37"
+  },
+  "838": {
+    "label": "Literature \u2014 subdivision 38"
+  },
+  "839": {
+    "label": "Literature \u2014 subdivision 39"
+  },
+  "840": {
+    "label": "Literature \u2014 subdivision 40"
+  },
+  "841": {
+    "label": "Literature \u2014 subdivision 41"
+  },
+  "842": {
+    "label": "Literature \u2014 subdivision 42"
+  },
+  "843": {
+    "label": "Literature \u2014 subdivision 43"
+  },
+  "844": {
+    "label": "Literature \u2014 subdivision 44"
+  },
+  "845": {
+    "label": "Literature \u2014 subdivision 45"
+  },
+  "846": {
+    "label": "Literature \u2014 subdivision 46"
+  },
+  "847": {
+    "label": "Literature \u2014 subdivision 47"
+  },
+  "848": {
+    "label": "Literature \u2014 subdivision 48"
+  },
+  "849": {
+    "label": "Literature \u2014 subdivision 49"
+  },
+  "850": {
+    "label": "Literature \u2014 subdivision 50"
+  },
+  "851": {
+    "label": "Literature \u2014 subdivision 51"
+  },
+  "852": {
+    "label": "Literature \u2014 subdivision 52"
+  },
+  "853": {
+    "label": "Literature \u2014 subdivision 53"
+  },
+  "854": {
+    "label": "Literature \u2014 subdivision 54"
+  },
+  "855": {
+    "label": "Literature \u2014 subdivision 55"
+  },
+  "856": {
+    "label": "Literature \u2014 subdivision 56"
+  },
+  "857": {
+    "label": "Literature \u2014 subdivision 57"
+  },
+  "858": {
+    "label": "Literature \u2014 subdivision 58"
+  },
+  "859": {
+    "label": "Literature \u2014 subdivision 59"
+  },
+  "860": {
+    "label": "Literature \u2014 subdivision 60"
+  },
+  "861": {
+    "label": "Literature \u2014 subdivision 61"
+  },
+  "862": {
+    "label": "Literature \u2014 subdivision 62"
+  },
+  "863": {
+    "label": "Literature \u2014 subdivision 63"
+  },
+  "864": {
+    "label": "Literature \u2014 subdivision 64"
+  },
+  "865": {
+    "label": "Literature \u2014 subdivision 65"
+  },
+  "866": {
+    "label": "Literature \u2014 subdivision 66"
+  },
+  "867": {
+    "label": "Literature \u2014 subdivision 67"
+  },
+  "868": {
+    "label": "Literature \u2014 subdivision 68"
+  },
+  "869": {
+    "label": "Literature \u2014 subdivision 69"
+  },
+  "870": {
+    "label": "Literature \u2014 subdivision 70"
+  },
+  "871": {
+    "label": "Literature \u2014 subdivision 71"
+  },
+  "872": {
+    "label": "Literature \u2014 subdivision 72"
+  },
+  "873": {
+    "label": "Literature \u2014 subdivision 73"
+  },
+  "874": {
+    "label": "Literature \u2014 subdivision 74"
+  },
+  "875": {
+    "label": "Literature \u2014 subdivision 75"
+  },
+  "876": {
+    "label": "Literature \u2014 subdivision 76"
+  },
+  "877": {
+    "label": "Literature \u2014 subdivision 77"
+  },
+  "878": {
+    "label": "Literature \u2014 subdivision 78"
+  },
+  "879": {
+    "label": "Literature \u2014 subdivision 79"
+  },
+  "880": {
+    "label": "Literature \u2014 subdivision 80"
+  },
+  "881": {
+    "label": "Literature \u2014 subdivision 81"
+  },
+  "882": {
+    "label": "Literature \u2014 subdivision 82"
+  },
+  "883": {
+    "label": "Literature \u2014 subdivision 83"
+  },
+  "884": {
+    "label": "Literature \u2014 subdivision 84"
+  },
+  "885": {
+    "label": "Literature \u2014 subdivision 85"
+  },
+  "886": {
+    "label": "Literature \u2014 subdivision 86"
+  },
+  "887": {
+    "label": "Literature \u2014 subdivision 87"
+  },
+  "888": {
+    "label": "Literature \u2014 subdivision 88"
+  },
+  "889": {
+    "label": "Literature \u2014 subdivision 89"
+  },
+  "890": {
+    "label": "Literature \u2014 subdivision 90"
+  },
+  "891": {
+    "label": "Literature \u2014 subdivision 91"
+  },
+  "892": {
+    "label": "Literature \u2014 subdivision 92"
+  },
+  "893": {
+    "label": "Literature \u2014 subdivision 93"
+  },
+  "894": {
+    "label": "Literature \u2014 subdivision 94"
+  },
+  "895": {
+    "label": "Literature \u2014 subdivision 95"
+  },
+  "896": {
+    "label": "Literature \u2014 subdivision 96"
+  },
+  "897": {
+    "label": "Literature \u2014 subdivision 97"
+  },
+  "898": {
+    "label": "Literature \u2014 subdivision 98"
+  },
+  "899": {
+    "label": "Literature \u2014 subdivision 99"
+  },
+  "900": {
+    "label": "History & geography"
+  },
+  "901": {
+    "label": "History & geography \u2014 subdivision 1"
+  },
+  "902": {
+    "label": "History & geography \u2014 subdivision 2"
+  },
+  "903": {
+    "label": "History & geography \u2014 subdivision 3"
+  },
+  "904": {
+    "label": "History & geography \u2014 subdivision 4"
+  },
+  "905": {
+    "label": "History & geography \u2014 subdivision 5"
+  },
+  "906": {
+    "label": "History & geography \u2014 subdivision 6"
+  },
+  "907": {
+    "label": "History & geography \u2014 subdivision 7"
+  },
+  "908": {
+    "label": "History & geography \u2014 subdivision 8"
+  },
+  "909": {
+    "label": "History & geography \u2014 subdivision 9"
+  },
+  "910": {
+    "label": "History & geography \u2014 subdivision 10"
+  },
+  "911": {
+    "label": "History & geography \u2014 subdivision 11"
+  },
+  "912": {
+    "label": "History & geography \u2014 subdivision 12"
+  },
+  "913": {
+    "label": "History & geography \u2014 subdivision 13"
+  },
+  "914": {
+    "label": "History & geography \u2014 subdivision 14"
+  },
+  "915": {
+    "label": "History & geography \u2014 subdivision 15"
+  },
+  "916": {
+    "label": "History & geography \u2014 subdivision 16"
+  },
+  "917": {
+    "label": "History & geography \u2014 subdivision 17"
+  },
+  "918": {
+    "label": "History & geography \u2014 subdivision 18"
+  },
+  "919": {
+    "label": "History & geography \u2014 subdivision 19"
+  },
+  "920": {
+    "label": "History & geography \u2014 subdivision 20"
+  },
+  "921": {
+    "label": "History & geography \u2014 subdivision 21"
+  },
+  "922": {
+    "label": "History & geography \u2014 subdivision 22"
+  },
+  "923": {
+    "label": "History & geography \u2014 subdivision 23"
+  },
+  "924": {
+    "label": "History & geography \u2014 subdivision 24"
+  },
+  "925": {
+    "label": "History & geography \u2014 subdivision 25"
+  },
+  "926": {
+    "label": "History & geography \u2014 subdivision 26"
+  },
+  "927": {
+    "label": "History & geography \u2014 subdivision 27"
+  },
+  "928": {
+    "label": "History & geography \u2014 subdivision 28"
+  },
+  "929": {
+    "label": "History & geography \u2014 subdivision 29"
+  },
+  "930": {
+    "label": "History & geography \u2014 subdivision 30"
+  },
+  "931": {
+    "label": "History & geography \u2014 subdivision 31"
+  },
+  "932": {
+    "label": "History & geography \u2014 subdivision 32"
+  },
+  "933": {
+    "label": "History & geography \u2014 subdivision 33"
+  },
+  "934": {
+    "label": "History & geography \u2014 subdivision 34"
+  },
+  "935": {
+    "label": "History & geography \u2014 subdivision 35"
+  },
+  "936": {
+    "label": "History & geography \u2014 subdivision 36"
+  },
+  "937": {
+    "label": "History & geography \u2014 subdivision 37"
+  },
+  "938": {
+    "label": "History & geography \u2014 subdivision 38"
+  },
+  "939": {
+    "label": "History & geography \u2014 subdivision 39"
+  },
+  "940": {
+    "label": "History & geography \u2014 subdivision 40"
+  },
+  "941": {
+    "label": "History & geography \u2014 subdivision 41"
+  },
+  "942": {
+    "label": "History & geography \u2014 subdivision 42"
+  },
+  "943": {
+    "label": "History & geography \u2014 subdivision 43"
+  },
+  "944": {
+    "label": "History & geography \u2014 subdivision 44"
+  },
+  "945": {
+    "label": "History & geography \u2014 subdivision 45"
+  },
+  "946": {
+    "label": "History & geography \u2014 subdivision 46"
+  },
+  "947": {
+    "label": "History & geography \u2014 subdivision 47"
+  },
+  "948": {
+    "label": "History & geography \u2014 subdivision 48"
+  },
+  "949": {
+    "label": "History & geography \u2014 subdivision 49"
+  },
+  "950": {
+    "label": "History & geography \u2014 subdivision 50"
+  },
+  "951": {
+    "label": "History & geography \u2014 subdivision 51"
+  },
+  "952": {
+    "label": "History & geography \u2014 subdivision 52"
+  },
+  "953": {
+    "label": "History & geography \u2014 subdivision 53"
+  },
+  "954": {
+    "label": "History & geography \u2014 subdivision 54"
+  },
+  "955": {
+    "label": "History & geography \u2014 subdivision 55"
+  },
+  "956": {
+    "label": "History & geography \u2014 subdivision 56"
+  },
+  "957": {
+    "label": "History & geography \u2014 subdivision 57"
+  },
+  "958": {
+    "label": "History & geography \u2014 subdivision 58"
+  },
+  "959": {
+    "label": "History & geography \u2014 subdivision 59"
+  },
+  "960": {
+    "label": "History & geography \u2014 subdivision 60"
+  },
+  "961": {
+    "label": "History & geography \u2014 subdivision 61"
+  },
+  "962": {
+    "label": "History & geography \u2014 subdivision 62"
+  },
+  "963": {
+    "label": "History & geography \u2014 subdivision 63"
+  },
+  "964": {
+    "label": "History & geography \u2014 subdivision 64"
+  },
+  "965": {
+    "label": "History & geography \u2014 subdivision 65"
+  },
+  "966": {
+    "label": "History & geography \u2014 subdivision 66"
+  },
+  "967": {
+    "label": "History & geography \u2014 subdivision 67"
+  },
+  "968": {
+    "label": "History & geography \u2014 subdivision 68"
+  },
+  "969": {
+    "label": "History & geography \u2014 subdivision 69"
+  },
+  "970": {
+    "label": "History & geography \u2014 subdivision 70"
+  },
+  "971": {
+    "label": "History & geography \u2014 subdivision 71"
+  },
+  "972": {
+    "label": "History & geography \u2014 subdivision 72"
+  },
+  "973": {
+    "label": "History & geography \u2014 subdivision 73"
+  },
+  "974": {
+    "label": "History & geography \u2014 subdivision 74"
+  },
+  "975": {
+    "label": "History & geography \u2014 subdivision 75"
+  },
+  "976": {
+    "label": "History & geography \u2014 subdivision 76"
+  },
+  "977": {
+    "label": "History & geography \u2014 subdivision 77"
+  },
+  "978": {
+    "label": "History & geography \u2014 subdivision 78"
+  },
+  "979": {
+    "label": "History & geography \u2014 subdivision 79"
+  },
+  "980": {
+    "label": "History & geography \u2014 subdivision 80"
+  },
+  "981": {
+    "label": "History & geography \u2014 subdivision 81"
+  },
+  "982": {
+    "label": "History & geography \u2014 subdivision 82"
+  },
+  "983": {
+    "label": "History & geography \u2014 subdivision 83"
+  },
+  "984": {
+    "label": "History & geography \u2014 subdivision 84"
+  },
+  "985": {
+    "label": "History & geography \u2014 subdivision 85"
+  },
+  "986": {
+    "label": "History & geography \u2014 subdivision 86"
+  },
+  "987": {
+    "label": "History & geography \u2014 subdivision 87"
+  },
+  "988": {
+    "label": "History & geography \u2014 subdivision 88"
+  },
+  "989": {
+    "label": "History & geography \u2014 subdivision 89"
+  },
+  "990": {
+    "label": "History & geography \u2014 subdivision 90"
+  },
+  "991": {
+    "label": "History & geography \u2014 subdivision 91"
+  },
+  "992": {
+    "label": "History & geography \u2014 subdivision 92"
+  },
+  "993": {
+    "label": "History & geography \u2014 subdivision 93"
+  },
+  "994": {
+    "label": "History & geography \u2014 subdivision 94"
+  },
+  "995": {
+    "label": "History & geography \u2014 subdivision 95"
+  },
+  "996": {
+    "label": "History & geography \u2014 subdivision 96"
+  },
+  "997": {
+    "label": "History & geography \u2014 subdivision 97"
+  },
+  "998": {
+    "label": "History & geography \u2014 subdivision 98"
+  },
+  "999": {
+    "label": "History & geography \u2014 subdivision 99"
+  }
+}
