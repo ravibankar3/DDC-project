@@ -1,48 +1,53 @@
-import React, { useRef, useState } from 'react';
-import Tesseract from 'tesseract.js';
+import React, { useState } from "react";
+import Tesseract from "tesseract.js";
 
 export default function Home() {
-  const [text, setText] = useState('');
   const [image, setImage] = useState(null);
+  const [text, setText] = useState("");
   const [loading, setLoading] = useState(false);
 
-  const handleImageUpload = (event) => {
-    const file = event.target.files[0];
+  const handleImageUpload = (e) => {
+    const file = e.target.files[0];
     if (file) {
       setImage(URL.createObjectURL(file));
     }
   };
 
-  const handleExtractText = async () => {
-    if (!image) return;
+  const handleOCR = async () => {
+    if (!image) {
+      alert("Please upload an image first!");
+      return;
+    }
+
     setLoading(true);
-    setText('');
+    setText("");
 
     try {
-      const result = await Tesseract.recognize(image, 'eng', {
-        logger: (info) => console.log(info), // Optional progress logging
+      const { data } = await Tesseract.recognize(image, "eng", {
+        logger: (m) => console.log(m),
       });
-      setText(result.data.text);
+
+      setText(data.text);
     } catch (error) {
-      alert(`OCR failed: ${error.message}`);
-      console.error('OCR error:', error);
+      console.error("OCR Error:", error);
+      alert("OCR failed: " + error.message);
     } finally {
       setLoading(false);
     }
   };
 
   return (
-    <div style={{ textAlign: 'center', padding: '2rem' }}>
+    <div style={{ padding: "2rem", textAlign: "center" }}>
       <h1>📘 DDC Chatbot</h1>
       <input type="file" accept="image/*" onChange={handleImageUpload} />
-      {image && <img src={image} alt="preview" width="200" />}
-      <div>
-        <button onClick={handleExtractText} disabled={loading}>
-          {loading ? 'Processing...' : 'Run OCR'}
+      {image && <img src={image} alt="uploaded" width="200" />}
+      <div style={{ marginTop: "1rem" }}>
+        <button onClick={handleOCR} disabled={loading}>
+          {loading ? "Extracting..." : "Run OCR"}
         </button>
       </div>
-      <div style={{ marginTop: '1rem', whiteSpace: 'pre-wrap' }}>
-        <h3>OCR Text</h3>
+      <div style={{ marginTop: "1rem", whiteSpace: "pre-wrap" }}>
+        <h3>OCR Text:</h3>
         <p>{text}</p>
       </div>
     </div>
