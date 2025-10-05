@@ -26,7 +26,6 @@ export default function Home() {
       const { data } = await Tesseract.recognize(image, "eng", {
         logger: (m) => console.log(m),
       });
-
       setText(data.text);
     } catch (error) {
       console.error("OCR Error:", error);
