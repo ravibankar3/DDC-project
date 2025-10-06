@@ -9,29 +9,37 @@ export default async function handler(req, res) {
   }
 
   try {
-    const response = await fetch("https://api.openai.com/v1/completions", {
+    const response = await fetch("https://api.openai.com/v1/chat/completions", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
         Authorization: `Bearer ${process.env.OPENAI_API_KEY}`,
       },
       body: JSON.stringify({
-        model: "text-davinci-003",
-        prompt: `
-You are a librarian trained in Dewey Decimal Classification (DDC). 
-Read the following text and give:
-1️⃣ The best DDC number (3 digits preferred).  
-2️⃣ A short reason explaining your choice in plain English.
+        model: "gpt-3.5-turbo",
+        messages: [
+          {
+            role: "system",
+            content:
+              "You are a professional librarian trained in Dewey Decimal Classification (DDC). Always respond in JSON format.",
+          },
+          {
+            role: "user",
+            content: `
+Classify the following text into Dewey Decimal Classification.
+Return only a JSON object with:
+{
+  "ddc": "[the most relevant DDC number, e.g. 170]",
+  "reason": "[a short reason why it fits this number]"
+}
 
-Text:
+Text to classify:
 ${text}
-
-Respond in this exact format:
-DDC: [number]
-Reason: [explanation]
-        `,
-        max_tokens: 150,
-        temperature: 0.4,
+`,
+          },
+        ],
+        temperature: 0.2,
+        max_tokens: 200,
       }),
     });
 
@@ -44,17 +52,20 @@ Reason: [explanation]
         .json({ error: "OpenAI API error: " + data.error.message });
     }
 
-    const output = data.choices?.[0]?.text?.trim() || "No response";
-    let ddc = "Not found";
-    let reason = "No explanation given.";
+    const message = data.choices?.[0]?.message?.content || "{}";
 
-    // Parse model response
-    const ddcMatch = output.match(/DDC:\s*([0-9.]+)/i);
-    const reasonMatch = output.match(/Reason:\s*(.+)/i);
-    if (ddcMatch) ddc = ddcMatch[1];
-    if (reasonMatch) reason = reasonMatch[1];
+    let parsed = {};
+    try {
+      parsed = JSON.parse(message);
+    } catch {
+      console.warn("Could not parse JSON, using raw text fallback.");
+      parsed = { ddc: "Unknown", reason: message };
+    }
 
-    return res.status(200).json({ ddc, reason, raw: output });
+    return res.status(200).json({
+      ddc: parsed.ddc || "No DDC found",
+      reason: parsed.reason || "No explanation returned.",
+    });
   } catch (error) {
     console.error("API Error:", error);
     return res.status(500).json({ error: "Internal Server Error" });
