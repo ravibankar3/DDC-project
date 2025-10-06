@@ -59,59 +59,43 @@ export default function Home() {
   };
 
   return (
-    <div style={{ padding: "2rem", textAlign: "center", maxWidth: 650, margin: "0 auto" }}>
-      <h1>📘 DDC Classifier OCR</h1>
+    <div
+      style={{
+        padding: "2rem",
+        maxWidth: "700px",
+        margin: "0 auto",
+        fontFamily: "system-ui, sans-serif",
+      }}
+    >
+      <h1 style={{ textAlign: "center", marginBottom: "1rem" }}>📘 DDC Chat Classifier</h1>
 
-      <input type="file" accept="image/*" onChange={handleImageUpload} />
-      {image && (
-        <div style={{ margin: "1rem" }}>
-          <img src={image} alt="Uploaded" width="250" />
-        </div>
-      )}
+      <div style={{ textAlign: "center" }}>
+        <input type="file" accept="image/*" onChange={handleImageUpload} />
+        {image && (
+          <div style={{ margin: "1rem" }}>
+            <img
+              src={image}
+              alt="Uploaded"
+              width="250"
+              style={{ borderRadius: "8px", boxShadow: "0 0 10px #ccc" }}
+            />
+          </div>
+        )}
 
-      <button onClick={handleOCR} disabled={loading}>
-        {loading ? "Extracting text..." : "Run OCR"}
-      </button>
-
-      <div style={{ marginTop: "1.5rem", textAlign: "left" }}>
-        <h3>📝 Extracted Text (Editable):</h3>
-        <textarea
-          value={text}
-          onChange={(e) => setText(e.target.value)}
-          rows={8}
+        <button
+          onClick={handleOCR}
+          disabled={loading}
           style={{
-            width: "100%",
-            padding: "0.5rem",
-            borderRadius: "8px",
-            border: "1px solid #ccc",
-            fontSize: "1rem",
-            fontFamily: "monospace",
+            background: "#0070f3",
+            color: "#fff",
+            border: "none",
+            padding: "10px 20px",
+            borderRadius: "6px",
+            cursor: "pointer",
           }}
-          placeholder="Extracted text will appear here..."
-        />
-
-        <div style={{ marginTop: "1rem", textAlign: "center" }}>
-          <button onClick={handleClassify} disabled={classifying || !text.trim()}>
-            {classifying ? "Classifying..." : "Classify DDC"}
-          </button>
-        </div>
-
-        <div style={{ marginTop: "1.5rem" }}>
-          <h3>📚 DDC Classification Result:</h3>
-          {classifying ? (
-            <p>Analyzing...</p>
-          ) : (
-            <>
-              <p style={{ fontSize: "1.2rem" }}>
-                <strong>DDC:</strong> {ddc || "—"}
-              </p>
-              <p>
-                <strong>Reason:</strong> {reason || "No explanation yet."}
-              </p>
-            </>
-          )}
-        </div>
+        >
+          {loading ? "Extracting text..." : "Run OCR"}
+        </button>
       </div>
-    </div>
-  );
-}
+
+      <div style={{ marginTop: "1.5rem"
