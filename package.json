@@ -4,6 +4,7 @@
   "private": true,
   "author": "Dr. R. S. Bankar",
   "scripts": {
+  "postinstall": "next telemetry disable && next build || true",
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
